@@ -1,5 +1,5 @@
 # Popular-Site-Subdomains
-A list of subdomains for some of the most popular sites on the internet
+A list of subdomains for some of the most popular sites on the internet.
 
 # Why?
 There are plenty of reasons why people sometimes want a list of subdomains for a website. Whether you're just curious what type of stuff
@@ -15,4 +15,4 @@ Before opening a pull request, please make sure that:
 * Each company has their own .txt file, eg. Facebook.txt
 * There are no duplicates in the list
 * The list is in alphabetical order, [you could use this site to do that](http://alphabetizer.flap.tv/)
-* http://, https:// or www. is not in any of the subdomains
+* http://, https:// or www. is not in any of the subdomains (as well as no trailing slashes at the end of the domain)
