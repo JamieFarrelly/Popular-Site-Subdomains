@@ -1,5 +1,5 @@
 # Popular-Site-Subdomains
-A list of subdomains for some of the most popular sites on the internet. Made as a result of [this tweet
+A list of subdomains for some of the most popular sites on the internet. Made as a result of [this tweet]
 (https://twitter.com/soaj1664ashar/status/777182478075326464). "Sometimes simple things are ignored" - nobody should struggle and waste time trying to find subdomains for sites.
 
 # Why?
