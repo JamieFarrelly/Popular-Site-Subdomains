@@ -20,6 +20,7 @@ Before opening a pull request, please make sure that:
 If you're not sure how you can help out, [this site can find subdomains ](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) for you but it also includes the IP addresses which we don't really want. What I do is open open the list in Notepad which has subdomains like:
 
 Facebook.com  127.0.0.1
+
 m.Facebook.com 127.0.0.2
 
 Next, to get rid of everything other than just the subdomain do a regex find and replace. Find "[ \t].*" and replace it with "\1"
