@@ -1,7 +1,6 @@
 0.facebook.com
 abc.facebook.com
 about.facebook.com
-accounts.fb.com
 act.facebook.com
 ads.facebook.com
 apps.facebook.com
@@ -23,7 +22,6 @@ da-dk.facebook.com
 de-de.facebook.com
 developers.facebook.com
 dns.facebook.com
-docs.fb.com
 ed.facebook.com
 el-gr.facebook.com
 en-gb.facebook.com
@@ -36,9 +34,7 @@ et-ee.facebook.com
 fa-ir.facebook.com
 facebook.com
 fb-lt.facebook.com
-fb.com
 fi-fi.facebook.com
-files.fb.com
 fr-ca.facebook.com
 fr-fr.facebook.com
 fr-fr.o.facebook.com
@@ -51,7 +47,6 @@ hs.facebook.com
 hu-hu.facebook.com
 id-id.facebook.com
 intern.facebook.com
-investor.fb.com
 inyour.facebook.com
 iphone.facebook.com
 it-it.facebook.com
@@ -68,7 +63,6 @@ mbasic.facebook.com
 ms-my.facebook.com
 national.facebook.com
 nb-no.facebook.com
-newsroom.fb.com
 nic.facebook.com
 nl-nl.facebook.com
 nl.facebook.com
@@ -91,8 +85,6 @@ register.facebook.com
 ro-ro.connect.facebook.com
 ro-ro.facebook.com
 ru-ru.facebook.com
-s.fb.com
-search.fb.com
 secure.facebook.com
 sr-rs.facebook.com
 static.ak.connect.facebook.com
@@ -109,7 +101,6 @@ v4help.facebook.com
 vi-vn.connect.facebook.com
 vi-vn.facebook.com
 vi-vn.o.facebook.com
-vsp.fb.com
 w.facebook.com
 ww.facebook.com
 www2.facebook.com

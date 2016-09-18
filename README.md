@@ -13,7 +13,7 @@ The idea behind this is to let everyone contribute and get a fairly big list of 
 
 Before opening a pull request, please make sure that:
 
-* Each company has their own .txt file, eg. Facebook.txt
+* Each domain has its own .txt file, eg. Facebook.com.txt, Facebook.co.uk.txt
 * There are no duplicates in the list
 * The list is in alphabetical order, [you could use this site to do that](http://alphabetizer.flap.tv/)
 * http://, https:// or www. is not in any of the subdomains (as well as no trailing slashes at the end of the domain)
