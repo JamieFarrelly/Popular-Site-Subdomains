@@ -1,11 +1,11 @@
-hw.reddit.com
 about.reddit.com
 en.reddit.com
-www.reddit.com
+fr.reddit.com
+gp.reddit.com
+hw.reddit.com
+it.reddit.com
+m.reddit.com
 ssl.reddit.com
 us.reddit.com
-m.reddit.com
 wh.reddit.com
-fr.reddit.com
-it.reddit.com
-gp.reddit.com
+www.reddit.com
