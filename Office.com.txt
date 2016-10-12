@@ -1,3 +1,4 @@
+blogs.office.com
 deploy.office.com
 drumbeat.office.com
 email.office.com
@@ -17,4 +18,3 @@ ns4a.o365filtering.com.
 office.com
 roadmap.office.com
 transform.office.com
-blogs.office.com
