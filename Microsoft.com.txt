@@ -188,4 +188,3 @@ video.microsoft.com
 webgallery.microsoft.com
 windows.microsoft.com
 windowsupdate.microsoft.com
-commerce.microsoft.com
