@@ -16,7 +16,7 @@ Before opening a pull request, please make sure that:
 * Each domain has its own .txt file, eg. Facebook.com.txt, Facebook.co.uk.txt
 * There are no duplicates in the list
 * The list is in alphabetical order, [you could use this site to do that](http://alphabetizer.flap.tv/)
-* http://, https:// or www. is not in any of the subdomains (as well as no trailing slashes at the end of the domain)
+* http:// or https:// is not in any of the subdomains (as well as no trailing slashes at the end of the domain)
 
 If you're not sure how you can help out, [this site can find subdomains ](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) for you but it also includes the IP addresses which we don't really want. What I do is open open the list in Notepad which has subdomains like:
 
