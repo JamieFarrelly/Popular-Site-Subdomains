@@ -47,6 +47,7 @@ sites.twitter.com
 sms.twitter.com
 static.twitter.com
 support.twitter.com
+syndication.twitter.com
 td.twitter.com
 twitter.com
 upload.twitter.com
