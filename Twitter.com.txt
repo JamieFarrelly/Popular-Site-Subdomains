@@ -51,5 +51,6 @@ td.twitter.com
 twitter.com
 upload.twitter.com
 video.twitter.com
+www.twitter.com
 www2.twitter.com
 www4.twitter.com
