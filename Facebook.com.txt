@@ -102,6 +102,7 @@ vi-vn.connect.facebook.com
 vi-vn.facebook.com
 vi-vn.o.facebook.com
 w.facebook.com
+web.facebook.com
 ww.facebook.com
 www2.facebook.com
 wwww.facebook.com
