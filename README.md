@@ -25,3 +25,4 @@ Facebook.com  127.0.0.1
 m.Facebook.com 127.0.0.2
 
 Next, to get rid of everything other than just the subdomain do a regex find and replace. Find "[ \t].*" and replace it with "\1"
+Also,a simple script which can help you to get only the name of the subdomains in alphabetical order: https://github.com/GiVeMeRoOt/Small-Scripts/blob/master/SubdomainListArranger/README.md
