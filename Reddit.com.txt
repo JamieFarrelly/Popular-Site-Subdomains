@@ -1,4 +1,5 @@
 about.reddit.com
+bn.reddit.com
 en.reddit.com
 fr.reddit.com
 gp.reddit.com
@@ -6,7 +7,10 @@ hw.reddit.com
 it.reddit.com
 m.reddit.com
 mod.reddit.com 
+old.reddit.com
+np.reddit.com
 ssl.reddit.com
 us.reddit.com
 wh.reddit.com
+ww.reddit.com
 www.reddit.com
